@@ -10,7 +10,7 @@ Profile pages for the users, horses, and clubs in the Dash Society equine "sim" 
 
 Google Play Rankings
 ---------------
-A Python script using urllib2 and Beautiful Soup 4 to pull the top 540-ranking apps for the Paid and Free categories on Google Play. Separates by category and outputs in the form "[free, paid], [Google Play ID], [rank number]"
+A Python script using urllib2 and Beautiful Soup 4 to pull the top 540 ranking apps for the "Paid Top-Selling" and "Free Top-Selling" categories on Google Play. Separates by category and outputs in the form "[free, paid], [Google Play ID], [rank number]". See example output in folder.
 
 Image Puller
 ---------------
